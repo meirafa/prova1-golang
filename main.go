@@ -1,7 +1,7 @@
 package main
 
 import (
-	tickets "desafio-go-bases/internal/tickets"
+	tickets "github.com/meirafa/prova1-golang/desafio-go-bases/internal/tickets"
 	"fmt"
 )
 
